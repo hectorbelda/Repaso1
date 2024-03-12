@@ -17,6 +17,7 @@ public class App
             System.out.println("0. Salir del programa");
 
             int i = ent.nextInt();
+
             switch (i)
             {
                 case 1: alta(); break;
